@@ -10,9 +10,3 @@ As an aspiring data analyst, I am passionate about uncovering meaningful insight
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() 
 [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]() 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anindon-saha/)
-python -m pybadges \
-    --left-text="python" \
-    --right-text="3.2, 3.3, 3.4, 3.5, 3.6" \
-    --whole-link="https://www.python.org/" \
-    --browser \
-    --logo='https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg'
